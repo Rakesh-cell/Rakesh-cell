@@ -1,5 +1,4 @@
 ### I'm a FrontEnd Developer working in Bengaluru, India.
-#### Interested in FullStack tech 
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg)]([https://linkedin.com/in/sambhav2612](https://www.linkedin.com/in/rakesh-m-765339195/))
 [![mail](https://img.shields.io/badge/gmail-D14836)](mailto:rakm030@gmail.com)
