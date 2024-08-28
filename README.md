@@ -7,7 +7,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; JavaScript | TypeScript | React NATIVE | React 
+- 🌐 &nbsp; JavaScript | TypeScript | React NATIVE | React | jQuery
 - 🌐 &nbsp; HTML | CSS  | Apache Cordova
 - 🌐 &nbsp; Redux | Expo 
 - 🛢 &nbsp; MongoDB | MySQL | Python
