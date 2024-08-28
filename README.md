@@ -1,8 +1,8 @@
 ### I'm a FrontEnd Developer working in Bengaluru, India.
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg)]([https://linkedin.com/in/sambhav2612](https://www.linkedin.com/in/rakesh-m-765339195/))
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg)]([https://linkedin.com/in/sambhav2612](https://www.linkedin.com/in/rakesh-m-765339195/])
 [![mail](https://img.shields.io/badge/gmail-D14836)](mailto:rakm030@gmail.com)
-[![resume](https://img.shields.io/badge/resume-%23#FFFF00.svg)]([https://mega.nz/file/IjA3yaoB#BFfQg1-aKva0piAd_wWs8Hf5dlnYRQ2ZkwtYwNMzBhA](https://drive.google.com/file/d/1N-eUzsmCx8EQRdvHkW3HjugRxvBE1wWo/view?usp=sharing))
+[![resume](https://img.shields.io/badge/resume-%23#FFFF00.svg)]([https://drive.google.com/file/d/1c68VylQIa-46uvn58_CJUnlVS3wR6POw/view?usp=sharing))
 
 
 <h3>🛠 Tech Stack</h3>
